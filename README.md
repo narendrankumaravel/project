@@ -1,5 +1,5 @@
 # Project
-This repository contains the files for my final project.
+This repository contains the files for my IBM project.
 
 ## Features
 - License: Apache 2.0
